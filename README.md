@@ -163,15 +163,15 @@ Project Link: [https://github.com/sitaxis/klink](https://github.com/sitaxis/klin
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/sitaxis/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/sitaxis/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/sitaxis/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/sitaxis/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/sitaxis/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/sitaxis/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/sitaxis/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/sitaxis/repo/issues
-[license-shield]: https://img.shields.io/github/license/sitaxis/repo.svg?style=for-the-badge
-[license-url]: https://github.com/sitaxis/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/sitaxis/klink.svg?style=for-the-badge
+[contributors-url]: https://github.com/sitaxis/klink/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/sitaxis/klink.svg?style=for-the-badge
+[forks-url]: https://github.com/sitaxis/klink/network/members
+[stars-shield]: https://img.shields.io/github/stars/sitaxis/klink.svg?style=for-the-badge
+[stars-url]: https://github.com/sitaxis/klink/stargazers
+[issues-shield]: https://img.shields.io/github/issues/sitaxis/klink.svg?style=for-the-badge
+[issues-url]: https://github.com/sitaxis/klink/issues
+[license-shield]: https://img.shields.io/github/license/sitaxis/klink.svg?style=for-the-badge
+[license-url]: https://github.com/sitaxis/klink/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/lucasdecrock/
